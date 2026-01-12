@@ -2,6 +2,7 @@ backend:
   name: github
   repo: yagizergil/yagizergil.github.io
   branch: main
+  site_domain: preeminent-babka-c98ff1.netlify.app
 
 media_folder: "assets/img/posts"
 public_folder: "/assets/img/posts"
